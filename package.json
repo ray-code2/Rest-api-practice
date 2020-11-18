@@ -1,0 +1,19 @@
+{
+  "name": "latihan-resapi",
+  "version": "1.0.0",
+  "description": "membuat res API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ray-code2/Rest-api-practice.git"
+  },
+  "author": "Raymond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ray-code2/Rest-api-practice/issues"
+  },
+  "homepage": "https://github.com/ray-code2/Rest-api-practice#readme"
+}
